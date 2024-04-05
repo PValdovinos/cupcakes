@@ -1,3 +1,10 @@
+<!--
+Name: Pedro Valdovinos Reyes, Everett Hanke
+Date: 4/4/24
+URL: https://pvaldovinos-reyes.greenriverdev.com/328/cupcakes/index.php
+Description: Short and sweet cupcake fundraiser page with a receipt that calculates the price of all ordered cupcakes.
+-->
+
 <!doctype html>
 <html lang="en">
 <head>
