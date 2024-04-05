@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    width: 350px; /* Adjust as needed */
+    padding: 20px;
+    border: 2px solid #ccc; /* Border around the container */
+    border-radius: 10px; /* Rounded corners */
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+form {
+    width: 100%;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
